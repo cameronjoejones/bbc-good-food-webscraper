@@ -28,8 +28,7 @@ The following information is extracted for each recipe:
 - Dairy-free
 - Keto
 - Gluten-free
-### Warning
-The code uses the warnings library to ignore warnings during execution. This is done to prevent the output from being cluttered with warnings.
+
 
 ### Conclusion
 This scraper is a simple example of how to extract information from a website using the requests and BeautifulSoup libraries in Python. It can be used as a starting point for more complex web scraping projects or adapted to suit different scraping needs.
